@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="mypkg" name="talker" type="count.py"/>
+	<node pkg="mypkg" name="listener" type="twice.py" output="screen"/>
+</launch>
+
+
