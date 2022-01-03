@@ -27,7 +27,8 @@ $ roslaunch mypkg count.launch
 $ cd catkin_ws  
 $ rostopic echo /twice  
 ```  
-### 以下の
+### 以下の質問が表示されるのでキャラクターに応じた数値を入力してください  
+
 
 # ライセンス  
 BSD 3-Clause "New" or "Revised" License  
