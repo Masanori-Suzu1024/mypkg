@@ -46,6 +46,9 @@ total damage:
 # プログラムの終了  
 端末上でCtrl+Cを入力してください  
 
+# デモ動画  
+https://youtu.be/7RVovgmUe4k
+
 # ライセンス  
 BSD 3-Clause "New" or "Revised" License  
 
