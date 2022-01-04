@@ -52,3 +52,4 @@ https://youtu.be/7RVovgmUe4k
 # ライセンス  
 BSD 3-Clause "New" or "Revised" License  
 
+原神はmiHoYo co., ltd.の著作物です
