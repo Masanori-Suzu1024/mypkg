@@ -27,8 +27,24 @@ $ roslaunch mypkg count.launch
 $ cd catkin_ws  
 $ rostopic echo /twice  
 ```  
-### 以下の質問が表示されるのでキャラクターに応じた数値を入力してください  
+### 以下の質問が表示されるのでキャラクターに応じた数値を入力してください(端末1)  
+```  
+Enter character's strength:  
+Enter arms strength:  
+Enter Tenp magnification(%):
+Enter damage buf(%):  
+Enter Critical rate(%):  
+Enter Critical damage magnification(%):  
+```
+### 入力が終わると結果が表示されます  
+```
+base damage:  
+critical correction value(ideal value):  
+total damage:
+```  
 
+# プログラムの終了  
+端末上でCtrl+Cを入力してください  
 
 # ライセンス  
 BSD 3-Clause "New" or "Revised" License  
