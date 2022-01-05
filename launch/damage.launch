@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="mypkg" name="talker" type="cal_damage.py" output="screen"/>
+	<node pkg="mypkg" name="listener" type="total_damage.py" output="screen"/>
+</launch>
+
+
