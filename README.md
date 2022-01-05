@@ -20,7 +20,7 @@
   ```  
 ### ROSの起動(roslaunchを使用) (端末1) 
 ```  
-$ roslaunch mypkg count.launch
+$ roslaunch mypkg damage.launch
 ```
 ### ROSTOPICの表示(端末2)
 ```  
