@@ -1,3 +1,8 @@
+# BSD 3-Clause "New" or "Revised" License 
+# Copyright (c) 2021, Masanori-Suzu1024 RyuichiUeda
+# All rights reserved.
+# Genshin is a copyrighted work of miHoYo co., Ltd 
+
 #!/usr/bin/env python3
 import rospy
 from std_msgs.msg import Int32
